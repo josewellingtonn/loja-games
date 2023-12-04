@@ -8,7 +8,7 @@ O projeto Loja de Games surgiu a partir de um desafio proposto pelos os instruto
 
 O site contém quatro páginas:
 * Home - página principal
-* Produtos - uma página dedicada aos produtos da loja, que no caso sáo jogos
+* Produtos - uma página dedicada aos produtos da loja, que no caso são jogos
 * Sobre - uma página contendo algumas informações sobre a loja
 * Contato - uma página que contém as formas de contato da loja
 
