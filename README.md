@@ -25,7 +25,7 @@ O site contém quatro páginas:
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final em funcionamento.]()
+[Veja o projeto final em funcionamento.](https://loja-games-beta.vercel.app/)
 
 Neste repositório você tem acesso a todos os arquivos necessários para execução.
 
